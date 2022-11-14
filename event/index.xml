@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks | Academic</title>
+    <link>https://ishaanjolly.github.io/event/</link>
+      <atom:link href="https://ishaanjolly.github.io/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Nov 2022 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ishaanjolly.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Talks</title>
+      <link>https://ishaanjolly.github.io/event/</link>
+    </image>
+    
+    <item>
+      <title>Machine Learning - A review and case study</title>
+      <link>https://ishaanjolly.github.io/talk/machine-learning-a-review-and-case-study/</link>
+      <pubDate>Wed, 09 Nov 2022 13:00:00 +0000</pubDate>
+      <guid>https://ishaanjolly.github.io/talk/machine-learning-a-review-and-case-study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clustering - Introduction</title>
+      <link>https://ishaanjolly.github.io/talk/clustering-introduction/</link>
+      <pubDate>Mon, 10 Oct 2022 13:00:00 +0000</pubDate>
+      <guid>https://ishaanjolly.github.io/talk/clustering-introduction/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
