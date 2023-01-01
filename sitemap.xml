@@ -2,8 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ishaanjolly.github.io/</loc>
-    <lastmod>2022-11-09T13:00:00+00:00</lastmod>
+    <loc>https://ishaanjolly.github.io/post/</loc>
+    <lastmod>2022-12-26T21:20:02+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ishaanjolly.github.io/post/2022/</loc>
+    <lastmod>2022-12-26T21:20:02+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ishaanjolly.github.io/talk/machine-learning-a-review-and-case-study/</loc>
@@ -14,44 +18,12 @@
     <lastmod>2022-11-09T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://ishaanjolly.github.io/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://ishaanjolly.github.io/talk/clustering-introduction/</loc>
     <lastmod>2022-10-10T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ishaanjolly.github.io/tag/academic/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ishaanjolly.github.io/categories/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ishaanjolly.github.io/category/demo/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ishaanjolly.github.io/post/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ishaanjolly.github.io/tags/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ishaanjolly.github.io/post/getting-started/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ishaanjolly.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ishaanjolly.github.io/category/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ishaanjolly.github.io/post/writing-technical-content/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ishaanjolly.github.io/publication-type/3/</loc>
@@ -74,8 +46,8 @@
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ishaanjolly.github.io/post/jupyter/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <loc>https://ishaanjolly.github.io/tags/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ishaanjolly.github.io/slides/</loc>
@@ -106,6 +78,9 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ishaanjolly.github.io/project/bike-sharing/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ishaanjolly.github.io/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ishaanjolly.github.io/project/laptop-manufacturing/</loc>
